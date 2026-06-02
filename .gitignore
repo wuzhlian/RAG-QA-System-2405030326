@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.vscode/
+.idea/
+chroma_db/
+.streamlit/secrets.toml
+.streamlit/config.toml
+*.log
+documents/*.pdf
+documents/*.docx
+documents/*.txt
